@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> 
+<h1 align="center">Hi there, I'm <a href="https://srgbar.github.io/portfolio/" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Front-end developer from Russia</h3>
 
@@ -20,5 +20,5 @@
 
 <h2>My GitHub stats:</h2> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srgbar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srgbar&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srgbar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srgbar&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>
