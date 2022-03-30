@@ -2,10 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&height=25&width=260&lines=I+am+a+front-end+developer)](https://git.io/typing-svg)
-<span>with experience in creating SPA using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.
-I am a front-end developer with experience in creating SPAs using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.</span>
+<span>with experience in creating SPA using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.</span>
 
-<h3><img src="https://img.icons8.com/external-others-iconmarket/30/000000/external-stack-design-thinking-others-iconmarket.png"/> My technology stack:</h3>
+<h2><img src="https://img.icons8.com/external-soft-fill-juicy-fish/28/000000/external-contact-envelopes-and-mail-soft-fill-soft-fill-juicy-fish.png"/> My contacts:</h2>
+
+<span><a href="https://www.linkedin.com/in/sergey-barbolin-86a587231/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/linkedin.png"/></a></span>
+<span><a href="https://t.me/srg_bar/" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v1.png"/></a></span>
+<span><img src="https://img.icons8.com/stickers/40/000000/apple-mail.png"/><a>srg.bar@yandex.ru</a></span>
+
+<h2><img src="https://img.icons8.com/fluency/28/000000/stacked-organizational-chart.png"/> My technology stack:</h2>
 
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
@@ -21,11 +26,11 @@ I am a front-end developer with experience in creating SPAs using the technology
 <span>![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)</span>
 <span>![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)</span>
 
-<h3>My codewars:</h3>
+<h2><img src="https://img.icons8.com/external-indigo-line-kalash/28/000000/external-brain-marketing-and-digital-marketing-indigo-line-kalash.png"/> My codewars:</h2>
 
-[![codewars](https://www.codewars.com/users/srgbar/badges/large)](https://www.codewars.com/users/srgbar) 
+[![codewars](https://www.codewars.com/users/barserg/badges/large)](https://www.codewars.com/users/barserg) 
 
-<h3><img src="https://img.icons8.com/external-flat-dmitry-mirolyubov/28/000000/external-analytics-clipboards-flat-dmitry-mirolyubov.png"/> My GitHub stats:</h3>
+<h2><img src="https://img.icons8.com/external-flat-dmitry-mirolyubov/28/000000/external-analytics-clipboards-flat-dmitry-mirolyubov.png"/> My GitHub stats:</h2>
 
 
 <span>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgbar&theme=solarized_dark)</span>
