@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://srgbar.github.io/portfolio/" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Front-end developer from Russia</h3>
 
-<h2><img src="https://img.icons8.com/external-others-iconmarket/30/000000/external-stack-design-thinking-others-iconmarket.png"/> My technology stack:</h2>
+<p>I am a front-end developer with experience in creating SPAs using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.
+I am a front-end developer with experience in creating SPAs using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.</p>
+
+<h3><img src="https://img.icons8.com/external-others-iconmarket/30/000000/external-stack-design-thinking-others-iconmarket.png"/> My technology stack:</h3>
 
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
@@ -18,7 +20,15 @@
 <span>![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)</span>
 <span>![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)</span>
 
-<h2><img src="https://img.icons8.com/external-flat-dmitry-mirolyubov/28/000000/external-analytics-clipboards-flat-dmitry-mirolyubov.png"/> My GitHub stats:</h2>
+<h3>My codewars</h3>
+<span>[![codewars](https://www.codewars.com/users/barserg/badges/large)](https://www.codewars.com/users/barserg)</span>
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srgbar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srgbar&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>
+<h3><img src="https://img.icons8.com/external-flat-dmitry-mirolyubov/28/000000/external-analytics-clipboards-flat-dmitry-mirolyubov.png"/> My GitHub stats:</h3>
+
+
+<span>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgbar&theme=solarized_dark)</span>
+
+<span>![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srgbar&theme=solarized_dark)</span>
+
+<span>![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srgbar&theme=solarized_dark)</span>
+
