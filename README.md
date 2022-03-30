@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://srgbar.github.io/portfolio/" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<p>I am a front-end developer with experience in creating SPAs using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.
-I am a front-end developer with experience in creating SPAs using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&height=25&width=260&lines=I+am+a+front-end+developer)](https://git.io/typing-svg)
+<span>with experience in creating SPA using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.
+I am a front-end developer with experience in creating SPAs using the technology stack - ReactJS, Redux, Typescript. I have excellent communication skills and extensive experience working with people. As a developer, I enjoy what I do and try to become more competent in this area.</span>
 
 <h3><img src="https://img.icons8.com/external-others-iconmarket/30/000000/external-stack-design-thinking-others-iconmarket.png"/> My technology stack:</h3>
 
@@ -20,15 +21,21 @@ I am a front-end developer with experience in creating SPAs using the technology
 <span>![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)</span>
 <span>![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)</span>
 
-<h3>My codewars</h3>
-<span>[![codewars](https://www.codewars.com/users/barserg/badges/large)](https://www.codewars.com/users/barserg)</span>
+<h3>My codewars:</h3>
+
+[![codewars](https://www.codewars.com/users/srgbar/badges/large)](https://www.codewars.com/users/srgbar) 
 
 <h3><img src="https://img.icons8.com/external-flat-dmitry-mirolyubov/28/000000/external-analytics-clipboards-flat-dmitry-mirolyubov.png"/> My GitHub stats:</h3>
 
 
 <span>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgbar&theme=solarized_dark)</span>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srgbar&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srgbar&theme=solarized_dark)
 
-<span>![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srgbar&theme=solarized_dark)</span>
+<div>
+  
+  ![](https://komarev.com/ghpvc/?username=srgbar)
+  
+</div>
 
-<span>![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srgbar&theme=solarized_dark)</span>
-
+  
