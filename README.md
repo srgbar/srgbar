@@ -28,7 +28,7 @@
 
 <h2><img src="https://img.icons8.com/external-indigo-line-kalash/28/000000/external-brain-marketing-and-digital-marketing-indigo-line-kalash.png"/> My codewars:</h2>
 
-[![codewars](https://www.codewars.com/users/barserg/badges/large)](https://www.codewars.com/users/barserg) 
+[![codewars](https://www.codewars.com/users/barserg/badges/small)](https://www.codewars.com/users/barserg) 
 
 <h2><img src="https://img.icons8.com/external-flat-dmitry-mirolyubov/28/000000/external-analytics-clipboards-flat-dmitry-mirolyubov.png"/> My GitHub stats:</h2>
 
