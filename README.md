@@ -24,7 +24,7 @@
 
 <span><a href="https://www.linkedin.com/in/sergey-barbolin-86a587231/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></span>
 <span><a href="https://t.me/srg_bar/" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a></span>
-<span><a href="https://t.me/srg_bar/" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a></span>
+<span><a href="srg.bar@yandex.ru" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a></span>
 
 <h2>My codewars:</h2>
 
